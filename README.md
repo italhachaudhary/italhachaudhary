@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -35,3 +35,12 @@
     </td>
   </tr>
 </table>
+<p align="center"> 
+  <a href="https://www.instagram.com/italhachaudhary">
+    <img alt="Instagram" src="https://img.shields.io/badge/italhachaudhary-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+    
+<a href="https://linkedin.com/in/italhachaudhary">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
