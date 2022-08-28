@@ -42,12 +42,3 @@ Software Engineer to be.
     </td>
   </tr>
 </table>
-<p align="center"> 
-  <a href="https://www.instagram.com/italhachaudhary">
-    <img alt="Instagram" src="https://img.shields.io/badge/italhachaudhary-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-    
-<a href="https://linkedin.com/in/italhachaudhary">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
