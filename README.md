@@ -4,19 +4,6 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Computer Science.
 
-<twitter-link href="https://www.twitter.com/@bkawk" height="15px"></twitter-link>
-<vimeo-link href="https://www.vimeo.com/@bkawk" height="15px"></vimeo-link>
-<skype-link href="https://www.skype.com/@bkawk" height="15px"></skype-link>
-<youtube-link href="https://www.youtube.com/@bkawk" height="15px"></youtube-link>
-<linkedin-link href="https://www.linkedin.com/@bkawk" height="15px"></linkedin-link>
-<behance-link href="https://www.behance.com/@bkawk" height="15px"></behance-link>
-<pinterest-link href="https://www.pinterest.com/@bkawk" height="15px"></pinterest-link>
-<facebook-link href="https://www.facebook.com/@bkawk" height="15px"></facebook-link>
-<convoo-link href="https://www.convoo.me/@bkawk" height="15px"></convoo-link>
-<snapchat-link href="https://www.snapchat.com/@bkawk" height="15px"></snapchat-link>
-<github-link href="https://www.github.com/@bkawk" height="15px"></github-link>
-<instagram-link href="https://www.instagram.com/@bkawk" height="15px"></instagram-link>
-<dribbble-link href="https://www.dribbble.com/@bkawk" height="15px"></dribbble-link>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
