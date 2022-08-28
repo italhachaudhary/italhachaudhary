@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Chaudhary</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-My name is Muhamad Talha Bin Zulfiqar. I am currently studying computer science at University of Sahiwal.Want to be a successful Software Engineer.
-Currently Learning Advance JavaScript. 
+Software Engineer to be.
 
 ### Socials 😍
 <p align="left">
