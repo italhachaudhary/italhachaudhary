@@ -28,11 +28,6 @@ Software Engineer to be.
      <img src="https://github-readme-stats.vercel.app/api?username=italhachaudhary&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="italhachaudhary" />
       </a>
     </td>
-    <td> 
-      <a href="https://www.github.com/italhachaudhary">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=italhachaudhary&hide_border=true&theme=tokyonight" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
