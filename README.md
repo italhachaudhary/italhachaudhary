@@ -11,20 +11,3 @@ Software Engineer to be.
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://www.github.com/italhachaudhary">
-     <img src="https://github-readme-stats.vercel.app/api?username=italhachaudhary&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="italhachaudhary" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.github.com/italhachaudhary">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=italhachaudhary&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
